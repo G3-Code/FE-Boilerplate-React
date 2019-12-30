@@ -1,6 +1,6 @@
 [build]
 base = "react-bp/"
-publish = "react-bp/build/"
+publish = "/build/"
 command = "npm run build"
 
 [[redirects]]
