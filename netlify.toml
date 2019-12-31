@@ -1,5 +1,5 @@
 [build]
-base = "react-bp/"
+base = "client/"
 publish = "/build/"
 command = "npm run build"
 
